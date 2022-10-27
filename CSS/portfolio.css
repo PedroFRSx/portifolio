@@ -1,6 +1,6 @@
 body {
 
-    background-image: url(Imagem/pexels-shawn-stutzman-1010496.jpg);
+    background-image: url(../Imagem/Fundo.jpg);
     font-family: 'Open Sans' sans-serif;
 
 }
@@ -38,49 +38,45 @@ header li a:hover {
 
 }
 
-.detalhe h1 {
+section h1{
 
-    display: inline-block;
-    color: white;
-    font-size: 30px;
-    margin-top: 180px;
-
-}
-
-section {
-
-    margin-top: 80px;
-
+display: inline-block;
+font-size: 40px;
+color: white;
 
 
 }
 
-section ol li {
+section h2{
 
-    list-style: none;
-    color: white;
-    font-size: 20px;
-    padding: 10px 100px;
+display: flex;
+padding-left: 80px;
+font-size: 30px;
+color: white;
 
 
 }
 
 section ol {
 
-    
-    
-    float: right;
-    margin-top: 0px;
-    padding: 20px 350px 20px 0;
+color: white;
+font-size: 20px;
+
+
+}
+
+section li{
+
+padding-top: 20px;
 
 }
 
 section img{
 
-width: 140px;
-float: right;
-margin-right: -180px;
-margin-top: 20px;
+width: 40%;
+margin-top: 40px;
+border: 3px solid white;
+
 
 }
 
